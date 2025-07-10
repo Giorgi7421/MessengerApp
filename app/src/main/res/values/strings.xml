@@ -1,3 +1,81 @@
 <resources>
-    <string name="app_name">MessengerApp</string>
+    <string name="app_name">Messenger</string>
+
+    <string name="login">SIGN IN</string>
+    <string name="register">SIGN UP</string>
+    <string name="signup">SIGN UP</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="nickname">Enter your nickname</string>
+    <string name="profession">What I do</string>
+    <string name="login_button">SIGN IN</string>
+    <string name="register_button">SIGN UP</string>
+
+    <string name="error_empty_email">Please enter your email</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="error_empty_password">Please enter your password</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="error_empty_nickname">Please enter your nickname</string>
+    <string name="error_short_nickname">Nickname must be at least 3 characters</string>
+    <string name="error_invalid_nickname">Please enter a valid nickname</string>
+    <string name="error_empty_profession">Please enter your profession</string>
+    <string name="error_nickname_exists">This nickname already exists</string>
+    <string name="error_authentication_failed">Authentication failed</string>
+    <string name="error_registration_failed">Registration failed</string>
+    <string name="error_user_not_found">User not found</string>
+    <string name="registration_successful">Registration successful</string>
+
+    <string name="conversations">Conversations</string>
+    <string name="search_conversations">Search</string>
+    <string name="no_conversations">No conversations</string>
+    <string name="loading">PLEASE WAIT...</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="add_conversation">New conversation</string>
+
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="logout">SIGN OUT</string>
+    <string name="profile_updated">Profile updated</string>
+    <string name="profile_update_failed">Failed to update profile</string>
+
+    <string name="users">Users</string>
+    <string name="search_users">Search</string>
+    <string name="no_users_found">No users found</string>
+    <string name="loading_users">Loading users...</string>
+    <string name="search_minimum_characters">Type at least 3 characters to search</string>
+
+    <string name="type_message">Message</string>
+    <string name="send">Send</string>
+    <string name="no_messages">No messages</string>
+    <string name="message_sent">Message sent</string>
+    <string name="message_failed">Failed to send message</string>
+
+    <string name="minutes_ago">min</string>
+    <string name="hours_ago">hour</string>
+    <string name="hour_ago">hour</string>
+    <string name="minute_ago">min</string>
+
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="not_registered">Not registered?</string>
+
+    <string name="select_image">Select Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="image_upload_failed">Failed to upload image</string>
+    <string name="image_uploaded">Image uploaded</string>
+
+    <string name="cd_profile_image">Profile image</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_back_button">Back button</string>
+    <string name="cd_add_conversation">Add new conversation</string>
+    <string name="cd_search">Search</string>
 </resources>
