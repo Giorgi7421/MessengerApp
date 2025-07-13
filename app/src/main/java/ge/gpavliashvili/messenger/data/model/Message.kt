@@ -1,4 +1,4 @@
-package ge.gpavliashvili.messengerapp.data.model
+package ge.gpavliashvili.messenger.data.model
 
 data class Message(
     val id: String = "",

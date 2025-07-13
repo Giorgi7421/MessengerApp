@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "ge.gpavliashvili.messengerapp"
+    namespace = "ge.gpavliashvili.messenger"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ge.gpavliashvili.messengerapp"
+        applicationId = "ge.gpavliashvili.messenger"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -32,6 +32,9 @@ android {
     }
     kotlinOptions {
         jvmTarget = "11"
+    }
+    buildFeatures {
+        viewBinding = true
     }
 }
 

@@ -1,4 +1,4 @@
-package ge.gpavliashvili.messengerapp.data.repository
+package ge.gpavliashvili.messenger.data.repository
 
 import android.net.Uri
 import com.google.firebase.storage.FirebaseStorage

@@ -1,4 +1,4 @@
-package ge.gpavliashvili.messengerapp.utils
+package ge.gpavliashvili.messenger.utils
 
 object Constants {
     const val DEBOUNCE_DELAY = 500L

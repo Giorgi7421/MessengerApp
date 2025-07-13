@@ -1,9 +1,9 @@
-package ge.gpavliashvili.messengerapp.data.repository
+package ge.gpavliashvili.messenger.data.repository
 
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.database.FirebaseDatabase
-import ge.gpavliashvili.messengerapp.data.model.User
+import ge.gpavliashvili.messenger.data.model.User
 import kotlinx.coroutines.tasks.await
 
 class AuthRepository {
