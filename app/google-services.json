@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "974275875753",
+    "firebase_url": "https://messenger-83552-default-rtdb.firebaseio.com",
+    "project_id": "messenger-83552",
+    "storage_bucket": "messenger-83552.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974275875753:android:c17a045bd20a7dec1eaab8",
+        "android_client_info": {
+          "package_name": "ge.gpavliashvili.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HN1BrSxtJfunLbRy0kMwGcOECPNfzG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
